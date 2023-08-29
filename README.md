@@ -1,4 +1,4 @@
-# data-science
+# ML-Prediction-Project
 my data science projects
 
 ## 1. Fruite classification using KNN
